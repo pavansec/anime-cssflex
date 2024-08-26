@@ -15,7 +15,7 @@ body {
 }
 
 .bg{
-    background-image: url(./img/itachi1.jpg);
+    background-image: url(itachi1.jpg);
     width: 100%;
     background-size: cover;
     background-position: center;
